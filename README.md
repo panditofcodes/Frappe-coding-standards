@@ -24,8 +24,6 @@ Whether you're building custom apps on the **Frappe Framework** or tailoring **E
   * [✅ 15. Performance Tips](#--15-performance-tips)
   * [✅ 16. Good vs. Bad Naming Examples](#--16-good-vs-bad-naming-examples)
 
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
-
 ---
 
 ## ✅ 1. General Coding Standards
