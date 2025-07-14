@@ -20,7 +20,7 @@ Whether you're building custom apps on the **Frappe Framework** or tailoring **E
 - [11. Fixtures & Migrations](#11-fixtures--migrations)
 - [12. Git & Bench Best Practices](#12-git--bench-best-practices)
 - [13. Naming Conventions](#13-naming-conventions)
-- [14. UI/UX Best Practices](#14-uiux-best-practices)
+- [14. UIUX Best Practices](#14-uiux-best-practices)
 - [15. Performance Tips](#15-performance-tips)
 - [16. Good vs. Bad Naming Examples](#16-good-vs-bad-naming-examples)
 
