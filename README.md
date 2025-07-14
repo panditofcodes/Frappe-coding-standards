@@ -1,7 +1,3 @@
-Certainly! Below is the **final consolidated article** that merges both content blocks into a single, well-structured **guide for Frappe and ERPNext Customization Coding Standards**, complete with **naming conventions, examples, and best practices**.
-
----
-
 # ✅ Frappe & ERPNext Customization Coding Standards and Best Practices
 
 > A Complete Developer Handbook with Code Examples, Naming Rules, and Implementation Tips
@@ -267,13 +263,3 @@ def execute():
 | `MyApp`     | `my_app`              |
 
 ---
-
-## 🧩 Need a Ready-to-Use Template?
-
-I can generate this guide into the following formats:
-
-* 📄 **Excel (.xlsx)** – Structured tabs for rules, code, review checklists
-* 📊 **Google Sheet** – Publicly shareable link
-* 🧠 **Notion Template** – Markdown format with collapsible sections
-
-**👉 Let me know your preferred format, and I’ll generate it right away.**
