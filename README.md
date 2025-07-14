@@ -7,23 +7,24 @@ Whether you're building custom apps on the **Frappe Framework** or tailoring **E
 ---
 
 ## 📘 Table of Contents
+  * [✅ 1. General Coding Standards](#--1-general-coding-standards)
+  * [✅ 2. Frappe App Structure Guidelines](#--2-frappe-app-structure-guidelines)
+  * [✅ 3. Doctype Customization](#--3-doctype-customization)
+  * [✅ 4. Client-Side Scripting Standards](#--4-client-side-scripting-standards)
+  * [✅ 5. Server-Side Scripting Standards](#--5-server-side-scripting-standards)
+  * [✅ 6. Hooks & Document Events](#--6-hooks---document-events)
+  * [✅ 7. Permission Handling](#--7-permission-handling)
+  * [✅ 8. REST API & Whitelisted Functions](#--8-rest-api---whitelisted-functions)
+  * [✅ 9. Reports & Dashboards](#--9-reports---dashboards)
+  * [✅ 10. Testing & Debugging](#--10-testing---debugging)
+  * [✅ 11. Fixtures & Migrations](#--11-fixtures---migrations)
+  * [✅ 12. Git & Bench Best Practices](#--12-git---bench-best-practices)
+  * [✅ 13. Naming Conventions](#--13-naming-conventions)
+  * [✅ 14. UI/UX Best Practices](#--14-ui-ux-best-practices)
+  * [✅ 15. Performance Tips](#--15-performance-tips)
+  * [✅ 16. Good vs. Bad Naming Examples](#--16-good-vs-bad-naming-examples)
 
-1. [General Coding Standards](#1-general-coding-standards)
-2. [Frappe App Structure Guidelines](#2-frappe-app-structure-guidelines)
-3. [Doctype Customization](#3-doctype-customization)
-4. [Client-Side Scripting Standards](#4-client-side-scripting-standards)
-5. [Server-Side Scripting Standards](#5-server-side-scripting-standards)
-6. [Hooks & Document Events](#6-hooks--document-events)
-7. [Permission Handling](#7-permission-handling)
-8. [REST API & Whitelisted Functions](#8-rest-api--whitelisted-functions)
-9. [Reports & Dashboards](#9-reports--dashboards)
-10. [Testing & Debugging](#10-testing--debugging)
-11. [Fixtures & Migrations](#11-fixtures--migrations)
-12. [Git & Bench Best Practices](#12-git--bench-best-practices)
-13. [Naming Conventions](#13-naming-conventions)
-14. [UI/UX Best Practices](#14-uiux-best-practices)
-15. [Performance Tips](#15-performance-tips)
-16. [Good vs. Bad Naming Examples](#16-good-vs-bad-naming-examples)
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
 ---
 
