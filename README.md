@@ -8,7 +8,7 @@ Whether you're building custom apps on the **Frappe Framework** or tailoring **E
 
 ## 📘 Table of Contents
 
-1. [General Coding Standards](## ✅ 1. General Coding Standards)
+1. [General Coding Standards](#1-general-coding-standards)
 2. [Frappe App Structure Guidelines](#2-frappe-app-structure-guidelines)
 3. [Doctype Customization](#3-doctype-customization)
 4. [Client-Side Scripting Standards](#4-client-side-scripting-standards)
